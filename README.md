@@ -7,3 +7,10 @@ Tecnologias usadas:
   <img align="center" alt="Nubia-Kotlin" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-plain.svg">
   
 </div>
+
+Framework mais usado:
+- SpringBoot
+
+Arquitetura mais usada: 
+- Restful
+- Hexagonal
