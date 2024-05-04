@@ -14,3 +14,6 @@ Framework mais usado:
 Arquitetura mais usada: 
 - Restful
 - Hexagonal
+
+Tecnologia em nuvem (cloud computing):
+-AWS
