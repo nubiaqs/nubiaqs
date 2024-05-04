@@ -16,4 +16,4 @@ Arquitetura mais usada:
 - Hexagonal
 
 Tecnologia em nuvem (cloud computing):
--AWS
+- AWS
